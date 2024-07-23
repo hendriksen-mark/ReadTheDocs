@@ -16,6 +16,7 @@ Docker Install
 Currently the docker image has been tested with x86 systems and ARMv7 systems (Raspberry Pi 2 and later). Currently the ARM image has only been tested with a Raspberry Pi 3b, 3b+, 4b and 5 If you have other ARM based devices and can test the image, please let us know on our Slack chat or in an issue. The images can be run with both host and bridge network modes. I recommend using the host network mode for ease, however this will give you less control over your docker networks. Using bridge mode allows you to control the traffic in and out of the container but requires more options to setup.
 
 Install docker + docker compose on raspberry(this might take some time)::
+
     curl -fsSL https://get.docker.com -o get-docker.sh
     sudo sh get-docker.sh
     sudo apt-get -y install libffi-dev libssl-dev python3-dev python3 python3-pip

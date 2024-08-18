@@ -62,6 +62,9 @@ To update the container:
 
 * Recreate the container using the commands above, changing the tag if necessary.
 
+Docker compose
+~~~~~~~~~~~~~~
+
 Alternatively, you may utilize the `docker-compose <https://github.com/diyhue/diyHue/blob/master/.build/docker-compose.yml>`_ file found in the .build directory of the repository to setup diyHue.
 In this file change the values to your setup.(IP, MAC, network mode, time zone)
 Place this file in a folder where you can find it and this is the only docker compose file.

@@ -6,11 +6,11 @@ This can be adjusted in the WebUI under Lights.
 Find the light that does not have the right capabilities and press the drop down menu.
 Select a light type that match the light you have.
 To find the capabilities of your light please look [here](https://zigbee.blakadder.com).
-ct = color temperature
-xy = color xy
-sat = saturation
-hue = color
-bri = brightness
+- ct = color temperature
+- xy = color xy
+- sat = saturation
+- hue = color
+- bri = brightness
 
 * LCT001 Hue Color Bulb #1
     capabilities: on, bri, hue, sat, xy, ct
@@ -47,16 +47,16 @@ Light icons
 The following lights and rooms do not have icons on the webui:
 
 * Light:
-    christmas_tree
-    wall_washer
-    small_globe_bulb
-    hue_lightstrip_pc
-    pendant_spot
-    ceiling_horizontal
-    ceiling_tube
-    hue_floodlight_camera
-    luster_bulb
-    twilight
+    - christmas_tree
+    - wall_washer
+    - small_globe_bulb
+    - hue_lightstrip_pc
+    - pendant_spot
+    - ceiling_horizontal
+    - ceiling_tube
+    - hue_floodlight_camera
+    - luster_bulb
+    - twilight
 
 * Room:
-    reading
+    - reading

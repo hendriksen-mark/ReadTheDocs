@@ -6,11 +6,14 @@ This can be adjusted in the WebUI under Lights.
 Find the light that does not have the right capabilities and press the drop down menu.
 Select a light type that match the light you have.
 To find the capabilities of your light please look [here](https://zigbee.blakadder.com).
-- ct = color temperature
-- xy = color xy
-- sat = saturation
-- hue = color
-- bri = brightness
+
+* Possible values
+    - ct = color temperature
+    - xy = color xy
+    - sat = saturation
+    - hue = color
+    - bri = brightness
+    - on = on/off
 
 * LCT001 Hue Color Bulb #1
     capabilities: on, bri, hue, sat, xy, ct

@@ -5,7 +5,10 @@ Light Types
 -----------
 
 Sometimes the light in DiyHue does not represent the right kind of light.
-This can be adjusted in the WebUI under Lights.
+DiyHue cannot implement every light that is compatible with Philips Hue.
+Because of this DiyHue have some lights that have the most common features.
+This does not mean you cant use other lights.
+You can adjust the light types in the WebUI under Lights.
 Find the light that does not have the right capabilities and press the drop down menu.
 Select a light type that match the light you have.
 To find the capabilities of your light please look `here <https://zigbee.blakadder.com>`_.
